@@ -8,6 +8,6 @@
 :white_check_mark: Реализован поиск сотрудников и фильтры  
   
 # Screenshot:        
-![alt text](screenshots/img1.png "Screenshot")       
+![alt text](img1.png "Screenshot")       
 
  
